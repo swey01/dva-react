@@ -17,7 +17,9 @@
     │ ├── /utils/        # 工具函数
     │ ├── route.js       # 路由配置
     │ └── index.js       # 入口文件
-    └── package.json     # 项目信息
+    ├── package.json     # 项目信息
+    |
+    └──.roadhogrc        #dva 配置
     
 ## 规范 ##
 
